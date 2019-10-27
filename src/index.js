@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 
+// Gmae  has 3 componets
 class Square extends React.Component {
   render() {
     return (
